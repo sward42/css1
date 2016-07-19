@@ -26,6 +26,20 @@ body {
 	border-color: aqua;
 }
 
+.top-nav {
+	background-color: goldenrod;
+	height: 45px;
+}
+
+.top-nav li {
+	list-style-type: none;
+	font-family: "Arial";
+	padding: 0 9px;
+	float: left;
+	margin: 10px 15px 0 15px;
+	cursor: pointer;
+}
+
 /*
 .new-border2 {
 	border-width: 2px;
