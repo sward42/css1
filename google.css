@@ -1,3 +1,49 @@
-body {
+.top-nav li {
+	display: inline-block;
+	padding: 5px;
+	text-align: center;
+}
+
+.img-boxes{
+	width: 20px;
+	height: 20px;
+}
+
+.main-img {
+	width: 300px;
+	margin: auto;
+	padding-top: 109px;
+}
+
+.logo {
+	margin: auto;
+	width: 272px;
+}
+
+button {
+	background-color: lightGray;
+	display: inline-block;
+	border: none;
+}
+
+.sign-in {
 	background-color: blue;
+	border: none;
+	display: inline-block;
+	color: white;
+}
+
+.search-box {
+	margin: 20px auto;
+
+}
+
+.top-nav {
+	text-align: right;
+}
+
+.search {
+	width: 40%;
+	margin: 20px auto;
+	text-align: center;
 }
