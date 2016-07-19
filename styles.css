@@ -1,0 +1,36 @@
+body {
+	background-color: pink;
+}
+
+.new-border {
+	border: 2px solid black;
+}
+
+.title {
+	border-color: green;
+}
+
+.image {
+	border-color: blue;
+}
+
+.text1 {
+	border-color: red;
+}
+
+.text2 {
+	border-color: orange;
+}
+
+.footer {
+	border-color: aqua;
+}
+
+/*
+.new-border2 {
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
+}
+*/
+
